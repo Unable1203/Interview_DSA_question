@@ -1,5 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
+/*
+SPACE = 0(1)
+TIME = O(N)
+*/
 class Solution
 {
     public:
