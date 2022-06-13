@@ -9,8 +9,8 @@ void Solution1(int arr[],int i,int j){
     }
 
 }
+
 /*
----------------- optimal one -----------------------
 void reverseString(int s[],int n){
         //create a stack
         stack<int> st;
