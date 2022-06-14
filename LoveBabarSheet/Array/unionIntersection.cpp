@@ -1,3 +1,4 @@
+// Problem - 6th 
 #include <bits/stdc++.h>
 #include <iostream>
 #include <unordered_set>
@@ -44,6 +45,7 @@ void union1(int a[],int n,int b[],int m,int r){
 
 }
 */
+
 
 //THis is optimal one using unordered set
 void doUnion(int a[], int n, int b[], int m) {
