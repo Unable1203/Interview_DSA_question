@@ -1,10 +1,2 @@
-void reverseArray1(int arr[], int start, int end)
-{
-    while (start < end)
-    {
-        swap(arr[start], arr[end]);
-        start++;
-        end--;
-    }
-
-}  
+int arr[] = { 7,1,5,3,6,4};
+	int n = sizeof(arr) / sizeof(arr[0]);
