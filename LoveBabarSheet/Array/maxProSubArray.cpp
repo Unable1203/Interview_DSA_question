@@ -1,3 +1,4 @@
+//Problem - 22TH
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -38,5 +39,4 @@ int main(){
      int x = maxProduct(a,n);
      cout<<x<<endl;
      
-
 }
