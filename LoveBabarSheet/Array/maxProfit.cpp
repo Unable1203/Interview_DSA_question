@@ -87,8 +87,6 @@ int maxProfit(int price[], int n)
     return result;
 }
  
- 
- */
 int main(){
     int arr[] = {10,22,5,75,65,80};
     int n = sizeof(arr) / sizeof(arr[0]);
