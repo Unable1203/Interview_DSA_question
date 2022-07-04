@@ -17,9 +17,10 @@ int PalindromeString1(char str[],int n){
     }
     return 1;
 }
+// Optimal One
 int main(){
     char arr[] = "abc";
-    int x = PalindromeString1(arr,4);
+    int x = isPalindrome(arr,3);
     cout<<x<<" ";
     return 0;
 }
