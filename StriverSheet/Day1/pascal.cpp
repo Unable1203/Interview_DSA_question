@@ -16,6 +16,7 @@ public:
         return r;
     }
 
+   // For printing ith row of the vector of vector = Mostly asked question
     void printnthRow(int numRows) {
         int prev = 1;
         cout<<prev<<" ";
