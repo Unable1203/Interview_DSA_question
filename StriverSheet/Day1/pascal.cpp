@@ -53,9 +53,10 @@ int main(){
 
     cout<<"Printing 3rd row: "<<endl;
     s.printnthRow(3);
-    return 0;
+    
 
-    cout<<"Print r=5 and c=3 element : "<<endl;
+    cout<<endl<<"Print r=5 and c=3 element : "<<endl;
     int x = s.printElements(num,5,3);
     cout << x;
+    return 0;
 }
